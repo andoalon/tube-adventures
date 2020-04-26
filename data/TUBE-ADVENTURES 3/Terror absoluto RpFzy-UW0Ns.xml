@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwLnE8-bF3wIVBpVRCh0eggDkKPgdMgJpdkjboduovvncyEY">
+<annotation id="annotation_619087" type="text" style="popup" log_data="ei=As8nXMCwA4aqxgKehIKgDg&amp;xble=1&amp;a-type=1&amp;a-id=annotation_619087&amp;a-v=RpFzy-UW0Ns" itct="CAEQs-UBGP___________wEiEwjAucTz5sXfAhUGlVEKHR6CAOQo-B0yAml2SNuh26i--dzIRg">
+  <TEXT>Con la participación de:
+
+Leon Metal Mizzrym
+Eva Zapata Sanz
+Carmen Alonso Gonzalez
+Eric Trébol
+Ichi Death
+Mita Wenaonda
+Javier Matos
+Jara Malos Pelos</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.00000" y="16.90100" w="31.87500" h="47.88700" t="0:02:46.0"/>
+      <rectRegion x="10.00000" y="16.90100" w="31.87500" h="47.88700" t="0:02:51.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="channel:55802b04-17f5-255e-9b48-e0cd377ac" style="branding" type="branding"
+            log_data="a-type=10&amp;a-v=RpFzy-UW0Ns&amp;l-class=3&amp;link-id=UCg7kI4GCMZKDSmxwp1SDrEA&amp;ei=As8nXMCwA4aqxgKehIKgDg&amp;xble=0&amp;a-ch=UCg7kI4GCMZKDSmxwp1SDrEA&amp;a-id=55802b04-17f5-255e-9b48-e0cd377ac">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;pinofas&quot;,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:162000,&quot;channel_id&quot;:&quot;UCg7kI4GCMZKDSmxwp1SDrEA&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;As8nXMCwA4aqxgKehIKgDg&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCMC5xPPmxd8CFQaVUQodHoIA5Cj4HTICaXZI26HbqL753MhG&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;55802b04-17f5-255e-9b48-e0cd377ac&quot;,&quot;src_vid&quot;:&quot;RpFzy-UW0Ns&quot;},&quot;end_ms&quot;:172000,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Suscrito&quot;,&quot;unsubscribeCount&quot;:&quot;7,8\u00a0mil&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;7,8\u00a0mil&quot;,&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=es\u0026uilel=3\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Des%26feature%3Div%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fpinofas%26app%3Ddesktop%26continue_action%3DQUFFLUhqbkdPSVNWRElqWHFkQUswVEh1N0pycnNMVEwzZ3xBQ3Jtc0tsNE1uaUxvWmxqYXNXZy04Yk1WSGJHTzM1YTRQRkRiNkZaQnBGUnQ4eXRUM3M2cGNYSDRTVW9oZEdQNjV5dXJjRVVMTWhUdk9QMHpDeEZOX1dHMHFHVENUTjNsejdENkhVeHJGOWpFMHh4NjA0MWh3TjhpczhMWmxXWXJfbEZpZkhpdVl6ODZYLS12c1NhcDlWbUFnWjFyd0o2TXVuYUk2ZG0wMmx5bDE2U21JaG9ia3JNYWtsTC0tLUFDYVp4UGtDVEtDNV9JckhOLU1MbUt0Rm16bTBKY0c2TVRtb25KeFdfQnpQSXpwcFViRWNIOE1J&quot;,&quot;subscribeText&quot;:&quot;Suscribirse&quot;,&quot;classic&quot;:true},&quot;num_subscribers&quot;:&quot;7852&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mCRGFmZKk-Ewebl4aNXQES0VzweQkvmLndDBQ=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_type&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/pinofas"/>
+  </action>
+</annotation></annotations></document>

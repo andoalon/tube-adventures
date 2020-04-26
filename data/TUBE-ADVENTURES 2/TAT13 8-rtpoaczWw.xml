@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhv6ZjO-k3wIVEZFRCh0l8QGKKPgdMgJpdkjsmvO06LS79fMB">
+<annotation id="annotation_41759" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdOvswwYjv6M&amp;xble=1&amp;a-type=3&amp;ei=aYoWXMalN5GixgKl4ofQCA&amp;a-id=annotation_41759&amp;l-class=1&amp;a-v=8-rtpoaczWw" itct="CAEQs-UBGP___________wEiEwiG_pmM76TfAhURkVEKHSXxAYoo-B0yAml2SOya87TotLv18wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.75000" y="76.03000" w="26.04200" h="9.36300" t="0:00:0.88"/>
+      <rectRegion x="13.75000" y="76.03000" w="26.04200" h="9.36300" t="0:00:24.53"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_41759&amp;ei=aYoWXMalN5GixgKl4ofQCA&amp;feature=iv&amp;src_vid=8-rtpoaczWw&amp;v=dOvswwYjv6M" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_47203" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6PNXChFKsQU&amp;xble=1&amp;a-type=3&amp;ei=aYoWXMalN5GixgKl4ofQCA&amp;a-id=annotation_47203&amp;l-class=1&amp;a-v=8-rtpoaczWw" itct="CAIQs-UBGP___________wEiEwiG_pmM76TfAhURkVEKHSXxAYoo-B0yAml2SOya87TotLv18wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.95800" y="38.20200" w="25.41700" h="9.36300" t="0:00:0.88"/>
+      <rectRegion x="13.95800" y="38.20200" w="25.41700" h="9.36300" t="0:00:24.53"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_47203&amp;ei=aYoWXMalN5GixgKl4ofQCA&amp;feature=iv&amp;src_vid=8-rtpoaczWw&amp;v=6PNXChFKsQU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_574281" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdOvswwYjv6M&amp;xble=1&amp;a-type=3&amp;ei=aYoWXMalN5GixgKl4ofQCA&amp;a-id=annotation_574281&amp;l-class=1&amp;a-v=8-rtpoaczWw" itct="CAMQs-UBGP___________wEiEwiG_pmM76TfAhURkVEKHSXxAYoo-B0yAml2SOya87TotLv18wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.75000" y="63.67000" w="30.20800" h="9.36300" t="0:00:0.88"/>
+      <rectRegion x="13.75000" y="63.67000" w="30.20800" h="9.36300" t="0:00:24.53"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_574281&amp;ei=aYoWXMalN5GixgKl4ofQCA&amp;feature=iv&amp;src_vid=8-rtpoaczWw&amp;v=dOvswwYjv6M" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_997253" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdOvswwYjv6M&amp;xble=1&amp;a-type=3&amp;ei=aYoWXMalN5GixgKl4ofQCA&amp;a-id=annotation_997253&amp;l-class=1&amp;a-v=8-rtpoaczWw" itct="CAQQs-UBGP___________wEiEwiG_pmM76TfAhURkVEKHSXxAYoo-B0yAml2SOya87TotLv18wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.95800" y="51.31100" w="25.62500" h="9.36300" t="0:00:0.88"/>
+      <rectRegion x="13.95800" y="51.31100" w="25.62500" h="9.36300" t="0:00:24.53"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_997253&amp;ei=aYoWXMalN5GixgKl4ofQCA&amp;feature=iv&amp;src_vid=8-rtpoaczWw&amp;v=dOvswwYjv6M" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

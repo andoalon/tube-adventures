@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1YvDjO-k3wIVBgnhCh0F-QknKPgdMgJpdkij_46xsJj79XQ">
+<annotation id="annotation_228624" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjT49E1xJa4A&amp;a-v=dOvswwYjv6M&amp;l-class=1&amp;a-type=3&amp;ei=aooWXNWuI4aShAeF8qe4Ag&amp;a-id=annotation_228624" itct="CAEQs-UBGP___________wEiEwjVi8OM76TfAhUGCeEKHQX5CSco-B0yAml2SKP_jrGwmPv1dA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.50000" y="47.19100" w="53.75000" h="9.36300" t="0:00:1.72"/>
+      <rectRegion x="17.50000" y="47.19100" w="53.75000" h="9.36300" t="0:00:23.95"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_228624&amp;ei=aooWXNWuI4aShAeF8qe4Ag&amp;feature=iv&amp;src_vid=dOvswwYjv6M&amp;v=jT49E1xJa4A" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_634428" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyvjqIvkScYs&amp;a-v=dOvswwYjv6M&amp;l-class=1&amp;a-type=3&amp;ei=aooWXNWuI4aShAeF8qe4Ag&amp;a-id=annotation_634428" itct="CAIQs-UBGP___________wEiEwjVi8OM76TfAhUGCeEKHQX5CSco-B0yAml2SKP_jrGwmPv1dA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="16.25000" y="64.04500" w="76.66700" h="9.36300" t="0:00:1.72"/>
+      <rectRegion x="16.25000" y="64.04500" w="76.66700" h="9.36300" t="0:00:23.95"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_634428&amp;ei=aooWXNWuI4aShAeF8qe4Ag&amp;feature=iv&amp;src_vid=dOvswwYjv6M&amp;v=yvjqIvkScYs" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

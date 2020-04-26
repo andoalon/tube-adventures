@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-u7zwOWY3wIVzx8VCh2_-gdZKPgdMgJpdkjExqH8l_m8x18">
+<annotation id="annotation_463420" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_463420&amp;a-v=X47zyX-IY0Q&amp;ei=vzUQXLqTDc-_VL_1n8gF&amp;xble=1" itct="CAEQs-UBGP___________wEiEwj67vPA5ZjfAhXPHxUKHb_6B1ko-B0yAml2SMTGofyX-bzHXw">
+  <TEXT>Lago del Noruego</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.37500" y="5.24300" w="23.75000" h="8.98900" t="0:01:39.89"/>
+      <rectRegion x="59.37500" y="5.24300" w="23.75000" h="8.98900" t="0:02:3.56"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_505079" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_505079&amp;a-v=X47zyX-IY0Q&amp;ei=vzUQXLqTDc-_VL_1n8gF&amp;xble=1" itct="CAIQs-UBGP___________wEiEwj67vPA5ZjfAhXPHxUKHb_6B1ko-B0yAml2SMTGofyX-bzHXw">
+  <TEXT>Camino bloqueado</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.29200" y="5.61800" w="25.00000" h="8.98900" t="0:01:39.89"/>
+      <rectRegion x="7.29200" y="5.61800" w="25.00000" h="8.98900" t="0:02:3.56"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_746849" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_746849&amp;a-v=X47zyX-IY0Q&amp;ei=vzUQXLqTDc-_VL_1n8gF&amp;xble=1" itct="CAMQs-UBGP___________wEiEwj67vPA5ZjfAhXPHxUKHb_6B1ko-B0yAml2SMTGofyX-bzHXw">
+  <TEXT>Aún no reúnes las condiciones para desbloquearlo</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.75000" y="29.96200" w="24.58300" h="20.97400" t="0:01:39.89"/>
+      <rectRegion x="8.75000" y="29.96200" w="24.58300" h="20.97400" t="0:02:3.56"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_929170" type="highlight" log_data="l-class=1&amp;a-type=3&amp;a-v=X47zyX-IY0Q&amp;a-id=annotation_929170&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRB4Nvyow0BI&amp;ei=vzUQXLqTDc-_VL_1n8gF&amp;xble=1" itct="CAQQs-UBGP___________wEiEwj67vPA5ZjfAhXPHxUKHb_6B1ko-B0yAml2SMTGofyX-bzHXw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.70800" y="14.23200" w="8.54200" h="13.85800" t="0:01:39.80"/>
+      <rectRegion x="67.70800" y="14.23200" w="8.54200" h="13.85800" t="0:02:3.56"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_929170&amp;ei=vzUQXLqTDc-_VL_1n8gF&amp;feature=iv&amp;src_vid=X47zyX-IY0Q&amp;v=RB4Nvyow0BI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:55802b04-17f5-255e-9b48-e0cd377ac" style="branding" type="branding"
+            log_data="link-id=UCg7kI4GCMZKDSmxwp1SDrEA&amp;l-class=3&amp;a-type=10&amp;a-v=X47zyX-IY0Q&amp;a-id=55802b04-17f5-255e-9b48-e0cd377ac&amp;a-ch=UCg7kI4GCMZKDSmxwp1SDrEA&amp;ei=vzUQXLqTDc-_VL_1n8gF&amp;xble=0">
+  <data>{&quot;channel_id&quot;:&quot;UCg7kI4GCMZKDSmxwp1SDrEA&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;55802b04-17f5-255e-9b48-e0cd377ac&quot;,&quot;src_vid&quot;:&quot;X47zyX-IY0Q&quot;,&quot;ei&quot;:&quot;vzUQXLqTDc-_VL_1n8gF&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCPru88DlmN8CFc8fFQodv_oHWSj4HTICaXZIxMah_Jf5vMdf&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;channel_name&quot;:&quot;pinofas&quot;,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:114000,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;image_type&quot;:0,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AN66SAzOTCCzVR83gmPCAqpaUS12Lj3z1zmylJ5lKw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;num_subscribers&quot;:&quot;7861&quot;,&quot;end_ms&quot;:124000,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;7,8\u00a0mil&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Suscribirse&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fpinofas%26hl%3Des%26feature%3Div%26app%3Ddesktop%26continue_action%3DQUFFLUhqbnBueE53dXFvOXhvc2VqMDBQWm4tWXpRQnNrQXxBQ3Jtc0ttRGFKU2lQRjFhdDVEaVpIdFY0TGVkakpNR3NFT2lFbnp1ZHdhYjBrd2RYU0RsMEVTVEVhaDd5NElVbmxrOXBwNWV1aE5XakFmLWpGUHdKeVpEdE5SQndWQ2thODFyRWNBUjJrNEdxdWs3cHotdHR1S1RwUXVuS1RWNjc3UmlWM0FkVHZVTzlpdVlKSTc3bjdvSGlMYk9paENpVkdVX01LUG93Y1A1Ymt5RVc2UGtOYkZMV1k3b1VYLVRSYUkwTWtuYjZpSjFBTFZoVmljSlFodnhpUmozNmNhd1Z2UEd5ajlvMTFfbnZEcXJUUVg4SXQw\u0026service=youtube\u0026hl=es\u0026uilel=3&quot;,&quot;unsubscribeText&quot;:&quot;Suscrito&quot;,&quot;subscribeCount&quot;:&quot;7,8\u00a0mil&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/pinofas"/>
+  </action>
+</annotation></annotations></document>

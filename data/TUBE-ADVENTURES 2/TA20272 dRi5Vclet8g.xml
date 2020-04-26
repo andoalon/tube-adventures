@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIvcD-2eWY3wIVxgDhCh3YbQVnKPgdMgJpdkjI7_rK3KqujHU">
+<annotation id="annotation_212113" type="highlight" log_data="a-id=annotation_212113&amp;ei=8zUQXP36McaBhAfY25W4Bg&amp;a-type=3&amp;a-v=dRi5Vclet8g&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFQeHW4orgSo" itct="CAEQs-UBGP___________wEiEwi9wP7Z5ZjfAhXGAOEKHdhtBWco-B0yAml2SMjv-srcqq6MdQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="26.04200" y="59.55000" w="55.62500" h="13.10900" t="0:00:27.64"/>
+      <rectRegion x="26.04200" y="59.55000" w="55.62500" h="13.10900" t="0:00:46.47"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_212113&amp;ei=8zUQXP36McaBhAfY25W4Bg&amp;feature=iv&amp;src_vid=dRi5Vclet8g&amp;v=FQeHW4orgSo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_428585" type="highlight" log_data="a-id=annotation_428585&amp;ei=8zUQXP36McaBhAfY25W4Bg&amp;a-type=3&amp;a-v=dRi5Vclet8g&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUmZ5eEe0Q2E" itct="CAIQs-UBGP___________wEiEwi9wP7Z5ZjfAhXGAOEKHdhtBWco-B0yAml2SMjv-srcqq6MdQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="87.29200" y="4.12000" w="7.91700" h="12.73400" t="0:00:27.64"/>
+      <rectRegion x="87.29200" y="4.12000" w="7.91700" h="12.73400" t="0:00:46.47"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_428585&amp;ei=8zUQXP36McaBhAfY25W4Bg&amp;feature=iv&amp;src_vid=dRi5Vclet8g&amp;v=UmZ5eEe0Q2E" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_518952" type="highlight" log_data="a-id=annotation_518952&amp;ei=8zUQXP36McaBhAfY25W4Bg&amp;a-type=3&amp;a-v=dRi5Vclet8g&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUf8V-n7i9qs" itct="CAMQs-UBGP___________wEiEwi9wP7Z5ZjfAhXGAOEKHdhtBWco-B0yAml2SMjv-srcqq6MdQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="31.45800" y="22.09700" w="47.70800" h="9.36300" t="0:00:27.61"/>
+      <rectRegion x="31.45800" y="22.09700" w="47.70800" h="9.36300" t="0:00:46.47"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_518952&amp;ei=8zUQXP36McaBhAfY25W4Bg&amp;feature=iv&amp;src_vid=dRi5Vclet8g&amp;v=Uf8V-n7i9qs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_623824" type="highlight" log_data="a-id=annotation_623824&amp;ei=8zUQXP36McaBhAfY25W4Bg&amp;a-type=3&amp;a-v=dRi5Vclet8g&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1Oo7rRTW924" itct="CAQQs-UBGP___________wEiEwi9wP7Z5ZjfAhXGAOEKHdhtBWco-B0yAml2SMjv-srcqq6MdQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="21.25000" y="40.44900" w="66.66700" h="9.36300" t="0:00:27.60"/>
+      <rectRegion x="21.25000" y="40.44900" w="66.66700" h="9.36300" t="0:00:46.46"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_623824&amp;ei=8zUQXP36McaBhAfY25W4Bg&amp;feature=iv&amp;src_vid=dRi5Vclet8g&amp;v=1Oo7rRTW924" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:55802b04-17f5-255e-9b48-e0cd377ac" style="branding" type="branding"
+            log_data="a-id=55802b04-17f5-255e-9b48-e0cd377ac&amp;ei=8zUQXP36McaBhAfY25W4Bg&amp;a-type=10&amp;a-v=dRi5Vclet8g&amp;link-id=UCg7kI4GCMZKDSmxwp1SDrEA&amp;l-class=3&amp;xble=0&amp;a-ch=UCg7kI4GCMZKDSmxwp1SDrEA">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AN66SAzOTCCzVR83gmPCAqpaUS12Lj3z1zmylJ5lKw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;channel_id&quot;:&quot;UCg7kI4GCMZKDSmxwp1SDrEA&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;8zUQXP36McaBhAfY25W4Bg&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCL3A_tnlmN8CFcYA4Qod2G0FZyj4HTICaXZIyO_6ytyqrox1&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;55802b04-17f5-255e-9b48-e0cd377ac&quot;,&quot;src_vid&quot;:&quot;dRi5Vclet8g&quot;},&quot;end_ms&quot;:47000,&quot;image_height&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;pinofas&quot;,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Suscribirse&quot;,&quot;unsubscribeText&quot;:&quot;Suscrito&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=es\u0026uilel=3\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Des%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fpinofas%26feature%3Div%26continue_action%3DQUFFLUhqbWhDNEctR2IySTVLU3dFajFCbEdvc3ZqOE00Z3xBQ3Jtc0tsZ3gyVjFuYkRhNnZyRVVMcFIxa05nR1VhVU52bnZvOVBFcHFMd3ZZYzR5MmZpRG9rZkpOeW13RHhReG13MUhpZGZVY25EUnMwUGNzallQdzF3dDg3UHJDeGlZblBTc2NZZkoxNXYwT3dtVmFQeldodE1EcWVsRENxRFE5VzhlMDRRaTNLVzZsRlRfMkh4eVVoY2FFakRSc2lydERZWGlUMWFfZmpQZ2hlb3hBNkpBWTVEWkNpZjZ4bGJ4SWRTbnN3d0tNLXdkdU1tN0dsLWpuMmRocm16dFFNWFFqTHduajdBak9RcWh1c0JBZkx1TmFn&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;7,8\u00a0mil&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;7,8\u00a0mil&quot;},&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;7861&quot;,&quot;start_ms&quot;:37000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/pinofas"/>
+  </action>
+</annotation></annotations></document>

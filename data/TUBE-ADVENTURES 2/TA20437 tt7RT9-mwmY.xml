@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqquQq-WY3wIVzsrVCh3ceQyZKPgdMgJpdkjmhJv9_am077YB">
+<annotation id="annotation_68673" type="text" style="popup" log_data="a-v=tt7RT9-mwmY&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7E2BgyytATE&amp;a-id=annotation_68673&amp;ei=kTUQXOqeIc6V1wbc87HICQ&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwiqq5Cr5ZjfAhXOytUKHdx5DJko-B0yAml2SOaEm_39qbTvtgE">
+  <TEXT>CONTINUAR</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="41.45800" y="46.44200" w="23.54200" h="10.48700" t="0:01:10.08"/>
+      <rectRegion x="41.45800" y="46.44200" w="23.54200" h="10.48700" t="0:01:29.76"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_68673&amp;ei=kTUQXOqeIc6V1wbc87HICQ&amp;feature=iv&amp;src_vid=tt7RT9-mwmY&amp;v=7E2BgyytATE" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="channel:55802b04-17f5-255e-9b48-e0cd377ac" style="branding" type="branding"
+            log_data="ei=kTUQXOqeIc6V1wbc87HICQ&amp;a-v=tt7RT9-mwmY&amp;link-id=UCg7kI4GCMZKDSmxwp1SDrEA&amp;xble=0&amp;a-ch=UCg7kI4GCMZKDSmxwp1SDrEA&amp;a-id=55802b04-17f5-255e-9b48-e0cd377ac&amp;a-type=10&amp;l-class=3">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fpinofas%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqbTB1V2RjdVU5d20xbWRJOTJmOTZkU25NZThMZ3xBQ3Jtc0tsQ2JIQWZDWmxkbERHMDJqUUVxUVRXMnZickk2MW9sV0tUZk8waDlJV2prN3E4SC1QUUlDMXFnUVktaFIyQmFtR2I0Qk5kNUxZV0FfRkRmZTI3SktmZlMwVndKVWlFT1F1NG00clBhWkh4Tk43eHJCTzJpTnZaUjdHbHJ4UHc0UXhydVZXSUFYa3AzbGg4Y25TM0RIV3ktb3lpUHBTdHNzZWFzMnpWRG9Hc3p0ellZUkViSTQ4dHloYkdsVFB3YUdMSjl2enZvZ05lZzZ3RzMwUTVCWlUzWkNXZzhMTnlzZWFCeVBMdVZDYkQ0NWgwR3lV%26action_handle_signin%3Dtrue%26hl%3Des\u0026hl=es\u0026passive=true&quot;,&quot;subscribeCount&quot;:&quot;7,8\u00a0mil&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Suscrito&quot;,&quot;subscribeText&quot;:&quot;Suscribirse&quot;,&quot;unsubscribeCount&quot;:&quot;7,8\u00a0mil&quot;},&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCg7kI4GCMZKDSmxwp1SDrEA&quot;,&quot;end_ms&quot;:90000,&quot;start_ms&quot;:80000,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCKqrkKvlmN8CFc7K1Qod3HkMmSj4HTICaXZI5oSb_f2ptO-2AQ&quot;,&quot;ei&quot;:&quot;kTUQXOqeIc6V1wbc87HICQ&quot;,&quot;annotation_id&quot;:&quot;55802b04-17f5-255e-9b48-e0cd377ac&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;tt7RT9-mwmY&quot;},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AN66SAzOTCCzVR83gmPCAqpaUS12Lj3z1zmylJ5lKw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;num_subscribers&quot;:&quot;7861&quot;,&quot;channel_name&quot;:&quot;pinofas&quot;,&quot;image_type&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/pinofas"/>
+  </action>
+</annotation></annotations></document>

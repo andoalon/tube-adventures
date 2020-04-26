@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI26iuleTF3wIVTQrgCh1c1wNkKPgdMgJpdkj3vMKcq6zaoucB">
+<annotation id="annotation_272342" type="highlight" log_data="a-id=annotation_272342&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeB1nO_b2oRM&amp;l-class=1&amp;a-v=50VpYrOQnnc&amp;ei=I8wnXJuLKs2UgAfcro-gBg" itct="CAEQs-UBGP___________wEiEwjbqK6V5MXfAhVNCuAKHVzXA2Qo-B0yAml2SPe8wpyrrNqi5wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="28.43800" y="35.11200" w="41.08600" h="6.15200" t="0:00:07.4"/>
+      <rectRegion x="28.43800" y="35.11200" w="41.08600" h="6.15200" t="0:00:21.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_272342&amp;ei=I8wnXJuLKs2UgAfcro-gBg&amp;feature=iv&amp;src_vid=50VpYrOQnnc&amp;v=eB1nO_b2oRM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_32044" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_945280">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_945280" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_415858" type="highlight" log_data="a-id=annotation_415858&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2i6Q6uaGU80&amp;l-class=1&amp;a-v=50VpYrOQnnc&amp;ei=I8wnXJuLKs2UgAfcro-gBg" itct="CAIQs-UBGP___________wEiEwjbqK6V5MXfAhVNCuAKHVzXA2Qo-B0yAml2SPe8wpyrrNqi5wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.65600" y="26.40400" w="41.94500" h="5.85700" t="0:00:07.4"/>
+      <rectRegion x="27.65600" y="26.40400" w="41.94500" h="5.85700" t="0:00:21.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_415858&amp;ei=I8wnXJuLKs2UgAfcro-gBg&amp;feature=iv&amp;src_vid=50VpYrOQnnc&amp;v=2i6Q6uaGU80" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_62694" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_272342">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_272342" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_665735" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_843627">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_843627" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_721314" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_841341">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_841341" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_800569" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_415858">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_415858" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_841341" type="highlight" log_data="a-id=annotation_841341&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dtd7GSEg856U&amp;l-class=1&amp;a-v=50VpYrOQnnc&amp;ei=I8wnXJuLKs2UgAfcro-gBg" itct="CAMQs-UBGP___________wEiEwjbqK6V5MXfAhVNCuAKHVzXA2Qo-B0yAml2SPe8wpyrrNqi5wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.65600" y="53.37100" w="43.14800" h="6.16600" t="0:00:07.4"/>
+      <rectRegion x="27.65600" y="53.37100" w="43.14800" h="6.16600" t="0:00:21.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_841341&amp;ei=I8wnXJuLKs2UgAfcro-gBg&amp;feature=iv&amp;src_vid=50VpYrOQnnc&amp;v=td7GSEg856U" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_843627" type="highlight" log_data="a-id=annotation_843627&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnNGxQYEyQiA&amp;l-class=1&amp;a-v=50VpYrOQnnc&amp;ei=I8wnXJuLKs2UgAfcro-gBg" itct="CAQQs-UBGP___________wEiEwjbqK6V5MXfAhVNCuAKHVzXA2Qo-B0yAml2SPe8wpyrrNqi5wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="28.75000" y="44.66300" w="41.25800" h="5.85700" t="0:00:07.4"/>
+      <rectRegion x="28.75000" y="44.66300" w="41.25800" h="5.85700" t="0:00:21.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_843627&amp;ei=I8wnXJuLKs2UgAfcro-gBg&amp;feature=iv&amp;src_vid=50VpYrOQnnc&amp;v=nNGxQYEyQiA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_945280" type="highlight" log_data="a-id=annotation_945280&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYZRtCOlbigc&amp;l-class=1&amp;a-v=50VpYrOQnnc&amp;ei=I8wnXJuLKs2UgAfcro-gBg" itct="CAUQs-UBGP___________wEiEwjbqK6V5MXfAhVNCuAKHVzXA2Qo-B0yAml2SPe8wpyrrNqi5wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.81300" y="62.64000" w="42.11700" h="5.84300" t="0:00:07.4"/>
+      <rectRegion x="27.81300" y="62.64000" w="42.11700" h="5.84300" t="0:00:21.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_945280&amp;ei=I8wnXJuLKs2UgAfcro-gBg&amp;feature=iv&amp;src_vid=50VpYrOQnnc&amp;v=YZRtCOlbigc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:55802b04-17f5-255e-9b48-e0cd377ac" style="branding" type="branding"
+            log_data="a-id=55802b04-17f5-255e-9b48-e0cd377ac&amp;a-type=10&amp;a-ch=UCg7kI4GCMZKDSmxwp1SDrEA&amp;xble=0&amp;link-id=UCg7kI4GCMZKDSmxwp1SDrEA&amp;ei=I8wnXJuLKs2UgAfcro-gBg&amp;l-class=3&amp;a-v=50VpYrOQnnc">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;num_subscribers&quot;:&quot;7852&quot;,&quot;channel_name&quot;:&quot;pinofas&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mCRGFmZKk-Ewebl4aNXQES0VzweQkvmLndDBQ=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_type&quot;:0,&quot;image_width&quot;:40,&quot;end_ms&quot;:22000,&quot;image_height&quot;:40,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCNuorpXkxd8CFU0K4AodXNcDZCj4HTICaXZI97zCnKus2qLnAQ&quot;,&quot;src_vid&quot;:&quot;50VpYrOQnnc&quot;,&quot;annotation_id&quot;:&quot;55802b04-17f5-255e-9b48-e0cd377ac&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;I8wnXJuLKs2UgAfcro-gBg&quot;},&quot;channel_id&quot;:&quot;UCg7kI4GCMZKDSmxwp1SDrEA&quot;,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:12000,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Suscrito&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fpinofas%26continue_action%3DQUFFLUhqbnhmQ2hNRzZDVXJiMkVwWF93ZDRuSjYySHNqZ3xBQ3Jtc0tsdVJhSzVYc3NBY2JmaDNBRmhuUUljeU16UHVXdHFhSnl3U19ObmZId2Q2Nnl4bjBldElLZnRiMkFnOHhBV0NjWGNIMjhQZUVTYUlNZzloR0NKMnZGOHFici00blkxMGpQN0t0Yy1ycllwOU9kdDYxM1Zjb0RoLThlQlo4b0xldE9GVVJrQmhEZi1PV0RwdGtZZ2R0OThDQUtUS0poeHUzZkY5WW1ITHFXeS02emZqa3ZDSVNsUHBVMU9kSDNfNTJGQ2xwdG9OeUJndkdIak5BVllkejBhLTRTWlFCSm5xSUJTZUhrQmIxdlkybTFTVGRv%26hl%3Des%26app%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue\u0026passive=true\u0026hl=es\u0026uilel=3\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;7,8\u00a0mil&quot;,&quot;subscribeText&quot;:&quot;Suscribirse&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;7,8\u00a0mil&quot;,&quot;subscribed&quot;:false}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/pinofas"/>
+  </action>
+</annotation></annotations></document>

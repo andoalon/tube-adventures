@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIl-Dtw9rF3wIVBlYVCh1JEg1AKPgdMgJpdkjn5dqxruvqhdsB">
+<annotation id="annotation_279219" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_447716">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+      <rectRegion x="0.00000" y="30.05600" w="18.75000" h="5.61800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_447716" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_447716" type="highlight" log_data="l-class=1&amp;a-v=2wurWuY2suc&amp;a-type=3&amp;a-id=annotation_447716&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPJ1My11fwXA&amp;xble=1&amp;ei=CMInXJe8M4asVcmktIAE" itct="CAEQs-UBGP___________wEiEwiX4O3D2sXfAhUGVhUKHUkSDUAo-B0yAml2SOfl2rGu6-qF2wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.78100" y="45.22500" w="29.57000" h="8.93300" t="0:01:12.5"/>
+      <rectRegion x="35.78100" y="45.22500" w="29.57000" h="8.93300" t="0:01:27.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_447716&amp;ei=CMInXJe8M4asVcmktIAE&amp;feature=iv&amp;src_vid=2wurWuY2suc&amp;v=PJ1My11fwXA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:55802b04-17f5-255e-9b48-e0cd377ac" style="branding" type="branding"
+            log_data="l-class=3&amp;a-v=2wurWuY2suc&amp;a-type=10&amp;link-id=UCg7kI4GCMZKDSmxwp1SDrEA&amp;a-id=55802b04-17f5-255e-9b48-e0cd377ac&amp;a-ch=UCg7kI4GCMZKDSmxwp1SDrEA&amp;xble=0&amp;ei=CMInXJe8M4asVcmktIAE">
+  <data>{&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;2wurWuY2suc&quot;,&quot;annotation_id&quot;:&quot;55802b04-17f5-255e-9b48-e0cd377ac&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCJfg7cPaxd8CFQZWFQodSRINQCj4HTICaXZI5-Xasa7r6oXbAQ&quot;,&quot;ei&quot;:&quot;CMInXJe8M4asVcmktIAE&quot;},&quot;channel_id&quot;:&quot;UCg7kI4GCMZKDSmxwp1SDrEA&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;pinofas&quot;,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:78000,&quot;image_type&quot;:0,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mCRGFmZKk-Ewebl4aNXQES0VzweQkvmLndDBQ=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;num_subscribers&quot;:&quot;7852&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;unsubscribeCount&quot;:&quot;7,8\u00a0mil&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Suscrito&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Suscribirse&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fpinofas%26action_handle_signin%3Dtrue%26feature%3Div%26hl%3Des%26continue_action%3DQUFFLUhqazMwQ1JqbFdLTjdpYk5oWjZmeHBpQmxSbi14UXxBQ3Jtc0ttTVljNWEyWU1oZHZpN1JJSUk0VVZtRGxmc0d0UHduSXpYMDZaRGp4ZDI0SFJMd2hrenhFZ29JYTRoZ0JjdEkzUnpzT2FsTEVLdnQ5YTF4UUdRekJJbG40eUNjRUtGMndOQnlDdXA2UDZOQ2lJMDJmY2dOeW83V3hzSmQ0U1BhekE5SWN5Q2FtUkZlUlludGhxQ1BpMC0yNmRYSlBZVGQ2bVBqM3EtNkpOeVhGcU9Xak50YXVzY0ZYZl9vRWFmLURKa0lqWkZZcHk1SEVhZkQ3NktLOVA4Q211eDJjOExiVU5XeTlKVE55MUFtSlp5RDkw%26app%3Ddesktop\u0026passive=true\u0026service=youtube\u0026uilel=3\u0026hl=es&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;7,8\u00a0mil&quot;},&quot;end_ms&quot;:88000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/pinofas"/>
+  </action>
+</annotation></annotations></document>

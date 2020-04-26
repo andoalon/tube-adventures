@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIuab7gvT-3gIVBJRRCh2KVQwdKPgdMgJpdkif1JjCn43Co5wB">
+<annotation id="annotation_132960" type="text" style="popup" log_data="ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkEvQU8A2veo&amp;l-class=1&amp;a-id=annotation_132960&amp;xble=1&amp;a-type=1&amp;a-v=nEcIafhGKh8" itct="CAEQs-UBGP___________wEiEwi5pvuC9P7eAhUElFEKHYpVDB0o-B0yAml2SJ_UmMKfjcKjnAE">
+  <TEXT>Ir aquí / go here</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.58300" y="48.61100" w="26.66700" h="8.05600" t="0:00:32.78"/>
+      <rectRegion x="69.58300" y="48.61100" w="26.66700" h="8.05600" t="0:00:37.78"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_132960&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;feature=iv&amp;src_vid=nEcIafhGKh8&amp;v=kEvQU8A2veo" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_138075" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_138075&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="CAIQs-UBGP___________wEiEwi5pvuC9P7eAhUElFEKHYpVDB0o-B0yAml2SJ_UmMKfjcKjnAE">
+  <TEXT>How about...</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="16.87500" y="7.03700" w="18.75000" h="8.88900" t="0:00:4.33"/>
+      <rectRegion x="16.87500" y="7.03700" w="18.75000" h="8.88900" t="0:00:5.70"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_16752" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_16752&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="CAMQs-UBGP___________wEiEwi5pvuC9P7eAhUElFEKHYpVDB0o-B0yAml2SJ_UmMKfjcKjnAE">
+  <TEXT>Yes</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.20800" y="15.55600" w="8.54200" h="8.88900" t="0:00:14.80"/>
+      <rectRegion x="70.20800" y="15.55600" w="8.54200" h="8.88900" t="0:00:16.30"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_24392" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_24392&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="CAQQs-UBGP___________wEiEwi5pvuC9P7eAhUElFEKHYpVDB0o-B0yAml2SJ_UmMKfjcKjnAE">
+  <TEXT>Before lunch time</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.29200" y="72.22200" w="25.62500" h="8.88900" t="0:00:24.71"/>
+      <rectRegion x="7.29200" y="72.22200" w="25.62500" h="8.88900" t="0:00:25.90"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_261235" type="text" style="popup" log_data="ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnEcIafhGKh8&amp;l-class=1&amp;a-id=annotation_261235&amp;xble=1&amp;a-type=1&amp;a-v=nEcIafhGKh8" itct="CAUQs-UBGP___________wEiEwi5pvuC9P7eAhUElFEKHYpVDB0o-B0yAml2SJ_UmMKfjcKjnAE">
+  <TEXT>Ir aquí / go here</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.87500" y="61.38900" w="27.29200" h="8.05600" t="0:00:32.78"/>
+      <rectRegion x="1.87500" y="61.38900" w="27.29200" h="8.05600" t="0:00:37.78"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_261235&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;feature=iv&amp;src_vid=nEcIafhGKh8&amp;v=nEcIafhGKh8" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_265244" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_265244&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="CAYQs-UBGP___________wEiEwi5pvuC9P7eAhUElFEKHYpVDB0o-B0yAml2SJ_UmMKfjcKjnAE">
+  <TEXT>Don&#39;t you see that?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.16700" y="4.81500" w="26.66700" h="8.88900" t="0:00:13.73"/>
+      <rectRegion x="14.16700" y="4.81500" w="26.66700" h="8.88900" t="0:00:15.70"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_304183" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_304183&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="CAcQs-UBGP___________wEiEwi5pvuC9P7eAhUElFEKHYpVDB0o-B0yAml2SJ_UmMKfjcKjnAE">
+  <TEXT>How about...</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.83300" y="7.40700" w="18.75000" h="8.88900" t="0:00:5.70"/>
+      <rectRegion x="15.83300" y="7.40700" w="18.75000" h="8.88900" t="0:00:7.30"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_397704" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_397704&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="CAgQs-UBGP___________wEiEwi5pvuC9P7eAhUElFEKHYpVDB0o-B0yAml2SJ_UmMKfjcKjnAE">
+  <TEXT>C&#39;mon, give me the sword as soon as possible. Ok?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.41700" y="68.14800" w="36.25000" h="14.81500" t="0:00:20.97"/>
+      <rectRegion x="5.41700" y="68.14800" w="36.25000" h="14.81500" t="0:00:23.30"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_471004" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_471004&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="CAkQs-UBGP___________wEiEwi5pvuC9P7eAhUElFEKHYpVDB0o-B0yAml2SJ_UmMKfjcKjnAE">
+  <TEXT>Ok</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="81.87500" y="16.66700" w="7.70800" h="8.88900" t="0:00:19.50"/>
+      <rectRegion x="81.87500" y="16.66700" w="7.70800" h="8.88900" t="0:00:20.30"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_509609" type="text" style="popup" log_data="ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBckqqsJiDUI&amp;l-class=1&amp;a-id=annotation_509609&amp;xble=1&amp;a-type=1&amp;a-v=nEcIafhGKh8" itct="CAoQs-UBGP___________wEiEwi5pvuC9P7eAhUElFEKHYpVDB0o-B0yAml2SJ_UmMKfjcKjnAE">
+  <TEXT>INICIO / START</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.12500" y="91.85200" w="26.87500" h="8.14800" t="0:00:0.20"/>
+      <rectRegion x="73.12500" y="91.85200" w="26.87500" h="8.14800" t="0:00:42.63"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_509609&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;feature=iv&amp;src_vid=nEcIafhGKh8&amp;v=BckqqsJiDUI" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_517478" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_517478&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="">
+  <TEXT>The... sword?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.41700" y="7.77800" w="19.37500" h="8.88900" t="0:00:7.40"/>
+      <rectRegion x="20.41700" y="7.77800" w="19.37500" h="8.88900" t="0:00:8.60"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_597843" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_597843&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="">
+  <TEXT>Look at that</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.37500" y="5.18500" w="17.70800" h="8.88900" t="0:00:12.50"/>
+      <rectRegion x="14.37500" y="5.18500" w="17.70800" h="8.88900" t="0:00:14.10"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_682943" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_682943&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="">
+  <TEXT>Oh, yes... I was about to ask you... Is the quest still on?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.70800" y="10.37000" w="39.16700" h="14.81500" t="0:00:8.46"/>
+      <rectRegion x="52.70800" y="10.37000" w="39.16700" h="14.81500" t="0:00:11.80"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_683400" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_683400&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="">
+  <TEXT>Yes, yes</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="16.87500" y="6.66700" w="14.58300" h="8.88900" t="0:00:11.60"/>
+      <rectRegion x="16.87500" y="6.66700" w="14.58300" h="8.88900" t="0:00:12.50"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_752536" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_752536&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="">
+  <TEXT>Don&#39;t worry, don&#39;t worry!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.79200" y="44.07400" w="32.08300" h="8.88900" t="0:00:25.83"/>
+      <rectRegion x="64.79200" y="44.07400" w="32.08300" h="8.88900" t="0:00:27.00"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_851771" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_851771&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="">
+  <TEXT>You should read more</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.54200" y="5.18500" w="30.00000" h="9.63000" t="0:00:18.07"/>
+      <rectRegion x="13.54200" y="5.18500" w="30.00000" h="9.63000" t="0:00:19.50"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_860006" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_860006&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="">
+  <TEXT>Yeah it&#39;s true. I didn&#39;t read it</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.00000" y="15.18500" w="36.45800" h="8.88900" t="0:00:16.20"/>
+      <rectRegion x="55.00000" y="15.18500" w="36.45800" h="8.88900" t="0:00:18.00"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_871648" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_871648&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="">
+  <TEXT>It&#39;s on</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="18.95800" y="6.66700" w="11.04200" h="8.88900" t="0:00:15.90"/>
+      <rectRegion x="18.95800" y="6.66700" w="11.04200" h="8.88900" t="0:00:17.00"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_973374" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_973374&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="">
+  <TEXT>Yes I&#39;ll do it, ok?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="71.87500" y="46.66700" w="23.12500" h="8.88900" t="0:00:23.27"/>
+      <rectRegion x="71.87500" y="46.66700" w="23.12500" h="8.88900" t="0:00:24.70"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_976245" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_976245&amp;xble=1&amp;ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-v=nEcIafhGKh8" itct="">
+  <TEXT>Hi!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="84.37500" y="23.33300" w="7.29200" h="8.88900" t="0:00:3.99"/>
+      <rectRegion x="84.37500" y="23.33300" w="7.29200" h="8.88900" t="0:00:5.30"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="channel:55802b04-17f5-255e-9b48-e0cd377ac" style="branding" type="branding"
+            log_data="ei=TqMCXLnHJ4SoxgKKq7HoAQ&amp;a-ch=UCg7kI4GCMZKDSmxwp1SDrEA&amp;l-class=3&amp;a-id=55802b04-17f5-255e-9b48-e0cd377ac&amp;xble=0&amp;a-type=10&amp;link-id=UCg7kI4GCMZKDSmxwp1SDrEA&amp;a-v=nEcIafhGKh8">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AN66SAzOTCCzVR83gmPCAqpaUS12Lj3z1zmylJ5lKw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:0,&quot;channel_name&quot;:&quot;pinofas&quot;,&quot;num_subscribers&quot;:&quot;7866&quot;,&quot;start_ms&quot;:33000,&quot;image_height&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UCg7kI4GCMZKDSmxwp1SDrEA&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbE5FMEFtb3dJd2lqaGlfLU1rT0hsS2dWVVhnUXxBQ3Jtc0treS1RdEwwUEJiVExCVUJHZG4zOVFDNzkyNnlaQTF4ajUtTzBYdG9TZ0RKeEVXWEtYREd1UVpRSlJIYjA1ZE9nbl8zdVlrOFlMUUVIMElfVkh5c3M2S0VSRmZ1SVJlbXpScHdZZkpRdTZIN1JvUWxFTThLeEptRGZqZjVYLUVoVk9QQUcxaFdPUU5IS2lIbWszRHZKMG04YXpNOWlra3JUYlI2QnhfRWgwTTlOdzdHUjJXcWlPTmVtSUpDZFA4Z3ZnUGUtSGNuNlB3THN5bzhoN3N0RWRsRTJkVU9BQm1yYlFodVZHVlk4TTNlMmFuUTFF%26hl%3Des%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fpinofas%26feature%3Div\u0026passive=true\u0026service=youtube\u0026hl=es\u0026uilel=3&quot;,&quot;subscribeCount&quot;:&quot;7,8\u00a0mil&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Suscrito&quot;,&quot;subscribeText&quot;:&quot;Suscribirse&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;7,8\u00a0mil&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;end_ms&quot;:43000,&quot;image_width&quot;:40,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAsQ8zcY____________ASITCLmm-4L0_t4CFQSUUQodilUMHSj4HTICaXZIn9SYwp-NwqOcAQ&quot;,&quot;src_vid&quot;:&quot;nEcIafhGKh8&quot;,&quot;annotation_id&quot;:&quot;55802b04-17f5-255e-9b48-e0cd377ac&quot;,&quot;ei&quot;:&quot;TqMCXLnHJ4SoxgKKq7HoAQ&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/pinofas"/>
+  </action>
+</annotation></annotations></document>
