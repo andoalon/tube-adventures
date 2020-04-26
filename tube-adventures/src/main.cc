@@ -78,6 +78,19 @@ int main()
 		}
 
 		std::cout << "    " << text << '\n';
+
+		if (const tinyxml2::XMLElement* const action = annotation->FirstChildElement("action"); action != nullptr)
+		{
+			if (const tinyxml2::XMLAttribute* const action_type = action->FindAttribute("type"); action_type != nullptr && run_and_check(action_type->Value()) == "openUrl"sv)
+			{
+				const tinyxml2::XMLElement* const url = run_and_check(action->FirstChildElement("url"));
+				const tinyxml2::XMLAttribute* const url_value = run_and_check(url->FindAttribute("value"));
+
+				const char* const url_c_str = run_and_check(url_value->Value());
+				const std::string_view url_text = url_c_str;
+				std::cout << "    " << std::quoted(url_text) << '\n';
+			}
+		}
 	}
 
 	return 0;
