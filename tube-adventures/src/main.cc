@@ -6,10 +6,14 @@
 #include <string>
 #include <string_view>
 
+#ifdef TUBE_ADVENTURES_HAVE_QT
+#	include "mainwindow.hh"
+#endif
+
 using namespace std::literals;
 using namespace std::literals::string_view_literals;
 
-int main()
+int main([[maybe_unused]] int argc, [[maybe_unused]] char * argv[])
 {
 	constexpr char filename[] = "../../data/TUBE-ADVENTURES/TA01 yVebIlvkOnU.xml";
 
@@ -93,5 +97,16 @@ int main()
 		}
 	}
 
+#ifdef TUBE_ADVENTURES_HAVE_QT
+	QApplication a(argc, argv);
+
+	MainWindow w;
+	w.show();
+
+	const auto retval = a.exec();
+
+	return retval;
+#else
 	return 0;
+#endif // TUBE_ADVENTURES_HAVE_QT
 }
