@@ -1,5 +1,7 @@
 #pragma once
 
+#include "annotations.hh"
+
 #include <chrono>
 
 #include <QMainWindow>
@@ -8,6 +10,7 @@
 
 #include <QResizeEvent>
 #include <QKeyEvent>
+#include <QPushButton>
 
 namespace Ui
 {
@@ -40,7 +43,15 @@ private:
 	void on_video_position_changed(const qint64 new_position);
 	void on_video_duration_changed(const qint64 duration_changed);
 
+	void on_annotation_clicked(const bool /*checked*/);
+
 private:
+	void play_video(const std::filesystem::path & annotations_file);
+
+private:
+	std::vector<Annotation> annotations;
+	std::vector<std::unique_ptr<QPushButton>> annotation_buttons;
+
 	QMediaPlayer * player = nullptr;
 	QVideoWidget * video = nullptr;
 };

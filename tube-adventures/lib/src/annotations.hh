@@ -4,6 +4,7 @@
 #include <string>
 #include <chrono>
 #include <string_view>
+#include <filesystem>
 
 #include <QColor>
 
@@ -99,4 +100,41 @@ struct ParseAnnotationsResult
 };
 
 ParseAnnotationsResult parse_annotations(const char * xml_filename);
+
+constexpr std::size_t youtube_video_id_length = 11;
+
+const std::filesystem::path annotation_file_extension = ".xml";
+
+[[nodiscard]] std::optional<std::string> full_youtube_url_from_id(const std::string_view video_id);
+[[nodiscard]] std::optional<std::string> path_to_youtube_video_id(const std::filesystem::path & annotation_file_path, const std::filesystem::path & expected_extension);
+[[nodiscard]] constexpr std::optional<std::string_view> youtube_video_id_from_url(const std::string_view youtube_url) noexcept
+{
+	using namespace std::string_view_literals;
+
+	constexpr std::string_view id_possible_prefixes[] = {
+		"/watch?v="sv,
+		"&v="sv
+	};
+
+	for (const std::string_view prefix : id_possible_prefixes)
+	{
+		const auto index = youtube_url.find(prefix);
+		if (index == std::string_view::npos)
+			continue;
+
+		const auto id_start_index = index + prefix.size();
+		if (id_start_index + youtube_video_id_length > youtube_url.size())
+			continue;
+
+		const std::string_view id = youtube_url.substr(id_start_index, youtube_video_id_length);
+
+		// Do some more exhaustive checks for ID validity
+		if (id.find(' ') != std::string_view::npos)
+			continue;
+
+		return id;
+	}
+
+	return std::nullopt;
+}
 

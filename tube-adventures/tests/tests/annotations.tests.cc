@@ -6,6 +6,8 @@
 #include <filesystem>
 #include <set>
 
+#include <QUrl>
+
 using namespace std::string_view_literals;
 
 #ifdef TUBE_ADVENTURES_DEBUG
@@ -89,8 +91,8 @@ TEST_CASE("Can parse an annotation file")
 	REQUIRE(result.error == ParseAnnotationsError::success);
 	REQUIRE(result.error_string == "");
 	REQUIRE(annotations.size() == 7);
-
-	const u8string go_here(u8"Ir aquí / go here"sv);
+	
+	const u8string go_here(u8"Ir aqu\u00ED / go here"sv);
 	const u8string missing_url = {};
 
 	const QColor foreground_color = QColor::fromRgb(1710618);
@@ -100,7 +102,7 @@ TEST_CASE("Can parse an annotation file")
 
 	check_annotation("annotations[0]", annotations[0], Annotation{
 		"annotation_103323"s,
-		u8"Música y + info en www.tube-adventures.blogspot.com"s,
+		u8"M\u00FAsica y + info en www.tube-adventures.blogspot.com"s,
 		Annotation::RectRegion{
 			14.16700f, 100.00000f,
 			71.25000f, 12.22200f,
@@ -262,4 +264,106 @@ TEST_CASE("Can parse all of tube-adventures 1")
 	}
 
 	std::printf("%d files parsed in the tube adventures 1 directory\n", files_parsed);
+}
+
+TEST_CASE("Can get full youtube url from video ID")
+{
+	const auto result = full_youtube_url_from_id("BckqqsJiDUI"sv);
+
+	constexpr std::string_view expected = "https://www.youtube.com/watch?v=BckqqsJiDUI"sv;
+
+	REQUIRE(result.has_value());
+	CHECK(*result == expected);
+	CHECK(QUrl(QString::fromStdString(*result)).isValid());
+}
+
+TEST_CASE("Can extract youtube video ID from annotation file path")
+{
+	struct Test
+	{
+		std::filesystem::path path;
+		std::string expected_id;
+	};
+
+	SECTION("Success")
+	{
+		const Test tests[] = {
+			{ "TA01 yVebIlvkOnU.xml", "yVebIlvkOnU" },
+			{ "TA02 5AkWHfJV8RQ.xml", "5AkWHfJV8RQ" },
+			{ "TA03 Nz3OeyRyUfE.xml", "Nz3OeyRyUfE" },
+			{ "TA04 MnBL8LY4kgc.xml", "MnBL8LY4kgc" },
+			{ "TA05 ccmNrLmG-6U.xml", "ccmNrLmG-6U" },
+			{ "TA06 SQ4VCOT5w-w.xml", "SQ4VCOT5w-w" },
+			{ "TA07 5JQBACKTLO8.xml", "5JQBACKTLO8" },
+			{ "TA08 LyGdkID_EOg.xml", "LyGdkID_EOg" },
+			{ "TA09 _EIxIlpqRio.xml", "_EIxIlpqRio" },
+			{ "TA10 KdSImTQRQEA.xml", "KdSImTQRQEA" },
+			{ "TA11 xizooMsqv5s.xml", "xizooMsqv5s" },
+			{ "TA12 bKPrAyI95dM.xml", "bKPrAyI95dM" },
+			{ "TA13 bvH-4uA_9-Q.xml", "bvH-4uA_9-Q" },
+			{ "TA14 esNIoSleZqA.xml", "esNIoSleZqA" },
+			{ "TA15 texlhDSgVRc.xml", "texlhDSgVRc" },
+			{ "TA16 FMAjPmAmYYY.xml", "FMAjPmAmYYY" },
+			{ "TA17 1w0GG4LO9Xs.xml", "1w0GG4LO9Xs" },
+			{ "TA18 UwudycbD3oo.xml", "UwudycbD3oo" },
+			{ "TA19 dJLI81Ydo84.xml", "dJLI81Ydo84" },
+			{ "TA20 KiTQRP1KK0U.xml", "KiTQRP1KK0U" },
+			{ "TA21 AVf-W6MkqA0.xml", "AVf-W6MkqA0" },
+			{ "TA22 5j4gwujTVjg.xml", "5j4gwujTVjg" },
+			{ "TA23 iTQK5q5RoUw.xml", "iTQK5q5RoUw" },
+			{ "TA24 sncgDs4YBpo.xml", "sncgDs4YBpo" },
+			{ "TA25 akGnLUy6aWU.xml", "akGnLUy6aWU" },
+			{ "TA26 bQltg0Hwq84.xml", "bQltg0Hwq84" },
+			{ "TA27 bPUSj_brL6w.xml", "bPUSj_brL6w" },
+			{ "TA28 RpIRRZjL40g.xml", "RpIRRZjL40g" },
+			{ "TA29 QqCFr0w2Z18.xml", "QqCFr0w2Z18" },
+			{ "TA30 rlZRFsPpCyQ.xml", "rlZRFsPpCyQ" },
+			{ "TA31 1nIr4OsRGvM.xml", "1nIr4OsRGvM" },
+			{ "TA32 ZYgBT9_Oi54.xml", "ZYgBT9_Oi54" },
+			{ "TA33 FzD4oiaYAZQ.xml", "FzD4oiaYAZQ" },
+			{ "TA34 w0TWWHDSdFE.xml", "w0TWWHDSdFE" },
+			{ "TA35 -3h0wRZq_1I.xml", "-3h0wRZq_1I" },
+			{ "TA36 -BdkyO3SgJA.xml", "-BdkyO3SgJA" },
+			{ "TA37 5AtSNnxBxE4.xml", "5AtSNnxBxE4" },
+			{ "TA38 eOz7LM6DYRM.xml", "eOz7LM6DYRM" },
+			{ "TA39 05TL_bQF0os.xml", "05TL_bQF0os" },
+			{ "TA40 GcPZcM7qYQQ.xml", "GcPZcM7qYQQ" },
+			{ "TA41 kEvQU8A2veo.xml", "kEvQU8A2veo" },
+			{ "TA42 AVDMgPeEHpU.xml", "AVDMgPeEHpU" },
+			{ "TA43 4t0j7xOF0os.xml", "4t0j7xOF0os" },
+			{ "TA44 hf9bnHws0X8.xml", "hf9bnHws0X8" },
+			{ "TA45 JErgINI4lMg.xml", "JErgINI4lMg" },
+			{ "TA46 HNgX-S85cuc.xml", "HNgX-S85cuc" },
+			{ "TA47 u4i5OTVZxvE.xml", "u4i5OTVZxvE" },
+			{ "TA48 XxYu8eAqC5U.xml", "XxYu8eAqC5U" },
+			{ "TA49 OLc9gKhKADg.xml", "OLc9gKhKADg" },
+			{ "TA50 ZciilZf1spU.xml", "ZciilZf1spU" },
+			{ "TA51 AAA_NxhT-Zw.xml", "AAA_NxhT-Zw" },
+			{ "TA52 pHT-afoqzt8.xml", "pHT-afoqzt8" },
+			{ "TA53 Ow_ssg5gTgo.xml", "Ow_ssg5gTgo" },
+			{ "TA54 ONN-aTxrhck.xml", "ONN-aTxrhck" },
+			{ "TA55 Y7gaVAHxzE0.xml", "Y7gaVAHxzE0" },
+			{ "TA56 x7rfiStC_rg.xml", "x7rfiStC_rg" },
+			{ "TA57 q01JoAIS0Ww.xml", "q01JoAIS0Ww" },
+			{ "TA58 T6GxHvVIbhk.xml", "T6GxHvVIbhk" },
+			{ "TA59 pO-oIZbQnqQ.xml", "pO-oIZbQnqQ" },
+			{ "TA60 c0CtvZKz2zw.xml", "c0CtvZKz2zw" },
+			{ "TA61 F87N3uM33p0.xml", "F87N3uM33p0" },
+			{ "TA62 x6V9YYEVPpc.xml", "x6V9YYEVPpc" },
+			{ "TA63 DY1YtV9-Z1c.xml", "DY1YtV9-Z1c" },
+			{ "TA64 -wtvbB-moOE.xml", "-wtvbB-moOE" },
+			{ "TA65 IDD8kv-VnaI.xml", "IDD8kv-VnaI" },
+			{ "TA66 nEcIafhGKh8.xml", "nEcIafhGKh8" },
+			{ "TA67 mMrZT2GzeKA.xml", "mMrZT2GzeKA" },
+			{ "TUBE-ADVENTURES (aventura interactiva) BckqqsJiDUI.xml", "BckqqsJiDUI" }
+		};
+
+		for (const Test & test : tests)
+		{
+			const auto result = path_to_youtube_video_id(test.path, annotation_file_extension);
+			CHECK(result == test.expected_id);
+		}
+	}
+
+	// TODO: check failing cases
 }

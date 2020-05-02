@@ -418,3 +418,42 @@ ParseAnnotationsResult parse_annotations(const char * xml_filename)
 	return { ParseAnnotationsError::success, std::move(result_annotations), {} };
 }
 
+std::optional<std::string> full_youtube_url_from_id(const std::string_view video_id)
+{
+	constexpr std::string_view base = "https://www.youtube.com/watch?v=";
+
+	if (video_id.size() != youtube_video_id_length)
+		return std::nullopt;
+
+	constexpr auto final_size = base.size() + youtube_video_id_length;
+
+	std::string result;
+	result.reserve(final_size);
+	result = base;
+	result += video_id;
+
+	return result;
+}
+
+[[nodiscard]] std::optional<std::string> path_to_youtube_video_id(const std::filesystem::path & annotation_file_path, const std::filesystem::path & expected_extension)
+{
+	 const auto stem = annotation_file_path.stem();
+
+	 if (stem.empty())
+		 return std::nullopt;
+
+	 if (annotation_file_path.extension() != expected_extension)
+		 return std::nullopt;
+
+	 const auto stem_str = stem.string();
+	 const auto stem_size = stem_str.size();
+
+	 if (stem_size <= youtube_video_id_length) // ID + space
+		 return std::nullopt;
+
+	 const auto found_index = stem_str.find_last_of(' ');
+	 if (found_index == std::string::npos || found_index + youtube_video_id_length + 1 != stem_size)
+		 return std::nullopt;
+
+	 return stem_str.substr(found_index + 1);
+}
