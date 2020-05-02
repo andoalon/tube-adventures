@@ -88,5 +88,9 @@ if (CMAKE_CXX_COMPILER_ID STREQUAL "Clang" OR CMAKE_CXX_COMPILER_ID STREQUAL "GN
 	)
 endif()
 
+option(TUBE_ADVENTURES_ENABLE_TESTING "Enable building and running unit tests" TRUE)
+if(TUBE_ADVENTURES_ENABLE_TESTING)
+	enable_testing()
+endif()
 
 add_subdirectory(tube-adventures)
