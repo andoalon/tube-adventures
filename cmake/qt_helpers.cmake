@@ -1,5 +1,14 @@
 include_guard()
 
+macro(find_qt)
+	find_package(Qt5
+		COMPONENTS
+			Core Widgets Gui Multimedia MultimediaWidgets # Direct dependencies
+			OpenGl Network # Transitive dependencies
+		REQUIRED
+	)
+endmacro()
+
 function(add_copy_qt_dependencies_post_build_event target)
 	if (NOT DEFINED target)
 		message(FATAL_ERROR "The 'target' parameter is required")
@@ -51,30 +60,38 @@ function(add_copy_qt_dependencies_post_build_event target)
 	if (WIN32 AND TUBE_ADVENTURES_USE_WINDEPLOYQT_FOR_COPYING_DLLS)
 		add_windeployq_post_build_event(${target})
 	else()
-		function(copy_output_dll_post_build from_target to_target)
-			if (NOT DEFINED from_target)
-				message(FATAL_ERROR "The 'from_target' parameter is required")
-			endif()
-
+		function(add_copy_output_files_post_build to_target)
 			if (NOT DEFINED to_target)
 				message(FATAL_ERROR "The 'target' parameter is required")
 			endif()
+
+			list(LENGTH ARGN amount_of_targets_to_copy)
+			if (amount_of_targets_to_copy EQUAL 0)
+				message(FATAL_ERROR "No targets to copy from specified")
+			endif()
+
+			set(targets_to_copy "")
+			foreach (from_target IN LISTS ARGN)
+				list(APPEND targets_to_copy "$<TARGET_FILE:${from_target}>")
+			endforeach()
 
 			add_custom_command(
 				TARGET ${to_target}
 				POST_BUILD
 				COMMAND ${CMAKE_COMMAND} -E copy_if_different
-					$<TARGET_FILE:${from_target}>
+					${targets_to_copy}
 					$<TARGET_FILE_DIR:${to_target}>
 			)
 		endfunction()
 
-		copy_output_dll_post_build(Qt5::Core ${target})
-		copy_output_dll_post_build(Qt5::Widgets ${target})
-		copy_output_dll_post_build(Qt5::Gui ${target})
-		copy_output_dll_post_build(Qt5::Multimedia ${target})
-		copy_output_dll_post_build(Qt5::MultimediaWidgets ${target})
-		copy_output_dll_post_build(Qt5::Network ${target})
-		copy_output_dll_post_build(Qt5::OpenGl ${target})
+		add_copy_output_files_post_build(${target}
+			Qt5::Core
+			Qt5::Widgets
+			Qt5::Gui
+			Qt5::Multimedia
+			Qt5::MultimediaWidgets
+			Qt5::Network
+			Qt5::OpenGL
+		)
 	endif()
 endfunction()

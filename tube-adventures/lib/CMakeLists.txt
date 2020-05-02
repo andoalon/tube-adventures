@@ -17,8 +17,6 @@ set_target_properties(tube-adventures-lib
 		AUTOUIC_SEARCH_PATHS "src/ui/"
 )
 
-find_package(Qt5 COMPONENTS Core Widgets Gui Multimedia MultimediaWidgets REQUIRED)
-
 target_link_libraries(tube-adventures-lib
 	PUBLIC
 		Qt5::Core
