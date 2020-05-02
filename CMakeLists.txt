@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.10)
 project(tube-adventures CXX)
 
+list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_LIST_DIR}/cmake")
+
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
@@ -52,7 +54,10 @@ conan_cmake_run(
 option(ANDONI_WARNINGS_AS_ERRORS "Treat warnings as errors" TRUE)
 
 if (MSVC)
-	add_link_options(/time)
+	if (CMAKE_VERSION VERSION_GREATER_EQUAL "3.13")
+		add_link_options(/time)
+	endif()
+
 	add_compile_options(/W4)
 
 	if (ANDONI_WARNINGS_AS_ERRORS)
