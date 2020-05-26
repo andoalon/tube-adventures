@@ -1,4 +1,8 @@
-cmake_minimum_required(VERSION 3.10)
+# 3.17 needed since it adds policy CMP0100,
+# which makes AUTOUIC and AUTOMOC
+# scan .hh files, which is the extension
+# used in this project for header files
+cmake_minimum_required(VERSION 3.17)
 project(tube-adventures CXX)
 
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_LIST_DIR}/cmake")
