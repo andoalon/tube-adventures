@@ -63,6 +63,8 @@ namespace
 			// Technically it should point to the first character
 			// not matching the pattern, but we can't get that information
 			result.ptr = begin;
+
+			return result;
 		}
 		catch (...)
 		{
